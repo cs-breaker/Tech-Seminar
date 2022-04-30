@@ -12,4 +12,4 @@
 | 순서 | 주제 |      발표자      |    날짜    | 정리 내용 |
 | :-------- | :-----------------: | :--------------: | :--------: | --------- |
 | # 1  | Hash | 김가영 | 2022.04.27 | [Seminar-1](https://github.com/cs-breaker/Tech-Seminar/blob/main/Contents/20220427-Seminar-1.md) |
-| # 2  | 프로세스와 스레드 | 전종민 | 2022.04.30 | [Seminar-2](https://github.com/cs-breaker/Tech-Seminar/blob/main/Contents/20220427-Seminar-2.md) |
+| # 2  | 프로세스와 스레드 | 전종민 | 2022.04.30 | [Seminar-2](https://github.com/cs-breaker/Tech-Seminar/blob/main/Contents/20220430-Seminar-2.md) |
