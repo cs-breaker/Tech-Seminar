@@ -15,3 +15,4 @@
 | # 5  |              HTTP와 HTTPS              | 박성민 | 2022.05.11 | [Seminar-5](https://github.com/cs-breaker/Tech-Seminar/blob/main/Contents/20220511-Seminar-5.md) |
 | # 6  |         Java 동작 구조와 JVM, GC      | 김가영 | 2022.05.14 | [Seminar-6](https://github.com/cs-breaker/Tech-Seminar/blob/main/Contents/20220514-Seminar-6.pdf) |
 | # 7  |                 Trie                 | 전종민 | 2022.05.18 | [Seminar-7](https://github.com/cs-breaker/Tech-Seminar/blob/main/Contents/20220518-Seminar-7.md) |
+| # 8  |                 CORS                 | 박민석 | 2022.05.31 | [Seminar-8](https://github.com/cs-breaker/Tech-Seminar/blob/main/Contents/20220531-Seminar-8.md) |
