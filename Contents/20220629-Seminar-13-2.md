@@ -1,0 +1,117 @@
+# branch : merge vs rebase
+
+# branch
+
+차원을 여러개 만들고 넘나 들자!라는 느낌으로 이해하시면 좋을 것 같습니다.
+
+![https://blog.kakaocdn.net/dn/b9iqJi/btrFP0tA6TM/Gkc3jyRiPAhkiJU5sYyY61/img.png](https://blog.kakaocdn.net/dn/b9iqJi/btrFP0tA6TM/Gkc3jyRiPAhkiJU5sYyY61/img.png)
+
+언제 사용하면 좋을까요?
+
+- 프로젝트를 하나 이상의 모습으로 관리해야 할 때
+    - 실배포용, 테스트서버용, 새로운 시도
+- 여러 작업들이 각각 독립되어 진행될 때
+    - 신기능1, 신기능2, 코드개선, 긴급수정 …
+    - 각각의 차원에서 작업한 뒤 확정된 것을 메인 차원에 통합
+
+### 1. 브랜치 생성 / 이동 / 삭제하기
+
+- add-coach란 이름의 브랜치 생성
+
+```
+git branch add-coach
+
+```
+
+- 브랜치 목록 확인
+
+```
+git branch
+
+```
+
+- add-coach 브랜치로 이동
+
+```
+git switch add-coach
+
+```
+
+- 브랜치 생성과 동시에 이동하기
+
+```
+git switch -c new-teams
+
+```
+
+- 브랜치 삭제하기
+
+```
+git branch -d (삭제할 브랜치 명)
+
+```
+
+- 브랜치 이름 바꾸기
+
+```
+git branch -m (기존 브랜치명) (새 브랜치명)
+
+```
+
+# branch를 합치는 두 가지 방법
+
+아래와 같은 브랜치가 있다고 가정하겠습니다.
+
+![https://blog.kakaocdn.net/dn/LH894/btrFPZ9iJLG/ivpZRekioG3VEwXBv0qsF1/img.png](https://blog.kakaocdn.net/dn/LH894/btrFPZ9iJLG/ivpZRekioG3VEwXBv0qsF1/img.png)
+
+## 1. merge
+
+add-coach branch를 main branch에 merge하면 다음과 같이 됩니다.
+
+![https://blog.kakaocdn.net/dn/my9eG/btrFRdTL0uC/kFKb8GsCrhesrrA26ezdy1/img.png](https://blog.kakaocdn.net/dn/my9eG/btrFRdTL0uC/kFKb8GsCrhesrrA26ezdy1/img.png)
+
+merge를 실행하게되면 노란색 커밋이 새롭게 생성이 됩니다.
+
+즉, merge는 실행한 브랜치로 병합을 실행하고 새로운 커밋이력을 생성하는 것을 확인할 수 있습니다.
+
+물론 이 과정에서 파란색의 master 브랜치와 초록색의 sub 브랜치가 다른 작업이 아닌 같은 코드에서 작업을 했다면 conflict(충돌)이 날 수 있는 것을 주의해야 합니다.
+
+## 2. rebase
+
+new-teams branch를 main에 rebase 하게되면 다음과 같습니다.
+
+![https://blog.kakaocdn.net/dn/bq85nl/btrFUjZwFKM/Iig4dFG6ZJ5NYEz71zsgk0/img.png](https://blog.kakaocdn.net/dn/bq85nl/btrFUjZwFKM/Iig4dFG6ZJ5NYEz71zsgk0/img.png)
+
+rebase는 어떤 브랜치를 기준으로 reabse 시켰냐에 따라 플로우가 바뀝니다.
+
+1. 초록색 master 브랜치에서 노란색 sub 브랜치를 기준으로 rebase
+
+![https://blog.kakaocdn.net/dn/nlf58/btrFUjd78iA/1uPVmVa3TzRLpCUS8kgdOK/img.png](https://blog.kakaocdn.net/dn/nlf58/btrFUjd78iA/1uPVmVa3TzRLpCUS8kgdOK/img.png)
+
+2. 노란색 sub 브랜치에서 초록색 master 브랜치 기준으로 rebase
+
+![https://blog.kakaocdn.net/dn/BgSil/btrFUi7n98n/pFiNUhZs3KL91Akz13Tb71/img.png](https://blog.kakaocdn.net/dn/BgSil/btrFUi7n98n/pFiNUhZs3KL91Akz13Tb71/img.png)
+
+즉, rebase는 어떤 특정 브랜치를 base로 커밋 이력을 재정렬하겠다는 명령어 입니다.
+
+그리고 여기서 재정렬된 커밋 이력에(`)가 추가되면서 해쉬 ID가 바뀌는 것을 알 수 있습니다.
+
+이것이 merge와 가장 다른 점 입니다.
+
+**재정렬되는 commit 이력이기 때문에, 재정렬되는 commit 이력에는 이전과는 다른 새로운 해쉬 ID가 부여됩니다.**
+
+따라서 master 브랜치에서 다른 브랜치 기준으로 rebase를 한다며 master의 커밋 이력이 변하기 때문에 피하는게 좋습니다.
+
+그럼 **rebase**는 어떤 상황에서 사용할 수 있을까요?
+
+커밋 이력을 깔끔하게 관리하는 경우에 사용할 수 있습니다.
+
+이전에 말했듯이, master 브랜치에서 다른 브랜치를 **rebase**하는 경우는 피하는게 좋지만 그 반대는 어떨까요?
+
+**rebase**을 실행하면 다른 브랜치의 커밋 이력 위에서 master 브랜치를 기준으로 다른 브랜치의 커밋이력이 깔끔하게 재정렬이 됩니다.
+
+즉, master 브랜치와는 상관없이 다른 브랜치의 이력 위에서 master 브랜치를 **base**로 재정렬이 됩니다.
+
+**한마디로 fast-forward merge가 가능하다는 말이겠죠.**
+
+---
