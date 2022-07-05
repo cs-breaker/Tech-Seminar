@@ -20,5 +20,5 @@
 | # 10 |                트랜잭션                | 박성민 | 2022.06.15 | [Seminar-10](./Contents/20220615-Seminar-10.md)                                                   |
 | # 11 |           B-tree, B+tree               | 김가영 | 2022.06.18 | [Seminar-11](./Contents/20220618-Seminar-11.md)                                             
 | # 12 |                  TCP                  | 전종민 | 2022.06.23 | [Seminar-12](./Contents/20220623-Seminar-12.md)
-| # 13 |                  git기초: revert vs reset & merge vs rebase   | 박민석 | 2022.06.29 | [Seminar-13-1](./Contents/20220623-Seminar-13-1.md)[Seminar-13-2](./Contents/20220623-Seminar-13-2.md)
+| # 13 |                  git기초: revert vs reset & merge vs rebase   | 박민석 | 2022.06.29 | [Seminar-13-1](./Contents/20220629-Seminar-13-1.md)[Seminar-13-2](./Contents/20220629-Seminar-13-2.md)
 | # 14  |         인덱스(Index)란?          | 김대희 | 2022.06.04 | [Seminar-14](./Contents/20220702-Seminar-14.md)
