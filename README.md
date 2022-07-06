@@ -22,4 +22,4 @@
 | # 12 |                    TCP                     | 전종민 | 2022.06.23 | [Seminar-12](./Contents/20220623-Seminar-12.md)                                                        |
 | # 13 | git기초: revert vs reset & merge vs rebase | 박민석 | 2022.06.29 | [Seminar-13-1](./Contents/20220629-Seminar-13-1.md)[Seminar-13-2](./Contents/20220629-Seminar-13-2.md) |
 | # 14 |              인덱스(Index)란?              | 김대희 | 2022.07.02 | [Seminar-14](./Contents/20220702-Seminar-14.md)                                                        |
-| # 15 |                    REST                    | 박성민 | 2022.07.07 | [Seminar-15](./Contents/20220707-Seminar-15.md)                                                        |
+| # 15 |                    REST                    | 박성민 | 2022.07.07 | [Seminar-15](./Contents/20220706-Seminar-15.md)                                                        |
