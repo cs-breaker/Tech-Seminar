@@ -24,3 +24,4 @@
 | # 14 |              인덱스(Index)란?              | 김대희 | 2022.07.02 | [Seminar-14](./Contents/20220702-Seminar-14.md)                                                        |
 | # 15 |                    REST                    | 박성민 | 2022.07.06 | [Seminar-15](./Contents/20220706-Seminar-15.md)                                                        |
 | # 16 |              자바 버전의 history             | 김가영 | 2022.07.12 | [Seminar-16](./Contents/20220712-Seminar-16.md)                                                        |
+| # 17 |              OAuth             | 전종민 | 2022.07.14 | [Seminar-17](./Contents/20220714-Seminar-17.md)                                                        |
