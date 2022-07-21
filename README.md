@@ -1,6 +1,6 @@
 # **Tech-Seminar**
 
-구성원 - 김가영, 김대희, 박민석, 전종민, 박성민
+구성원 - 김가영, 김대희, 박민석, 전종민, 박성민, 오혜린, 손상준
 
 방식 - 매 회차 1인 발표 및 질의 응답
 
@@ -25,4 +25,4 @@
 | # 15 |                    REST                    | 박성민 | 2022.07.06 | [Seminar-15](./Contents/20220706-Seminar-15.md)                                                        |
 | # 16 |              자바 버전의 history             | 김가영 | 2022.07.12 | [Seminar-16](./Contents/20220712-Seminar-16.md)                                                        |
 | # 17 |              OAuth             | 전종민 | 2022.07.14 | [Seminar-17](./Contents/20220714-Seminar-17.md)                                                        |
-| # 18 |    교착상태(Deadlock), 뮤텍스(Mutex), 세마포어(Semaphore)      | 오혜린 | 2022.07.21 | [Seminar-18](./Contents/20220721-Seminar-18.md)                                                        |
+| # 18 |    교착상태(Deadlock), 뮤텍스, 세마포어      | 오혜린 | 2022.07.21 | [Seminar-18](./Contents/20220721-Seminar-18.md)                                                        |
