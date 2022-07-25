@@ -25,5 +25,4 @@
 | # 15 |                    REST                    | 박성민 | 2022.07.06 | [Seminar-15](./Contents/20220706-Seminar-15.md)                                                        |
 | # 16 |              자바 버전의 history             | 김가영 | 2022.07.12 | [Seminar-16](./Contents/20220712-Seminar-16.md)                                                        |
 | # 17 |              MV*             | 박민석 | 2022.07.18 | [Seminar-17](./Contents/20220718-Seminar-18.md)                                                        |
-
 | # 19 |    교착상태(Deadlock), 뮤텍스, 세마포어      | 오혜린 | 2022.07.21 | [Seminar-18](./Contents/20220721-Seminar-19.md)                                                        |
