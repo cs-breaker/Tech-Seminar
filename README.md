@@ -28,5 +28,4 @@
 | # 18 |              MV*             | 박민석 | 2022.07.18 | [Seminar-18](./Contents/20220718-Seminar-18.md)                                                        |
 | # 19 |    교착상태(Deadlock), 뮤텍스, 세마포어      | 오혜린 | 2022.07.21 | [Seminar-19](./Contents/20220721-Seminar-19.md)                                                        |
 | # 20 |    인증체계      | 손상준 | 2022.07.25 | [Seminar-20](./Contents/20220725-Seminar-20.md)
-                     |
-
+                     
