@@ -29,4 +29,4 @@
 | # 19 |    교착상태(Deadlock), 뮤텍스, 세마포어    | 오혜린 | 2022.07.21 | [Seminar-19](./Contents/20220721-Seminar-19.md)                                                        |
 | # 20 |                  인증체계                  | 손상준 | 2022.07.25 | [Seminar-20](./Contents/20220725-Seminar-20.md)                                                        |
 | # 21 |            SQL Injection와 XSS             | 박성민 | 2022.07.28 | [Seminar-21](./Contents/20220728-Seminar-21.md)                                                        |
-| # 22 |            OOP와 SOLID             | 김가영 | 2022.08.04 | [Seminar-22](./Contents/20220804-Seminar-22.md)                                                        |
+| # 22 |            OOP와 SOLID             | 김가영 | 2022.08.04 | [Seminar-22](./Contents/20220804-Seminar-22.pdf)                                                        |
