@@ -30,6 +30,6 @@
 | # 20 |                  인증체계                  | 손상준 | 2022.07.25 | [Seminar-20](./Contents/20220725-Seminar-20.md)                                                        |
 | # 21 |            SQL Injection와 XSS             | 박성민 | 2022.07.28 | [Seminar-21](./Contents/20220728-Seminar-21.md)                                                        |
 | # 22 |            OOP와 SOLID             | 김가영 | 2022.08.04 | [Seminar-22](./Contents/20220804-Seminar-22.pdf)                                                        |
-| # 23 |                                   |         |          |                                |
+| # 23 |      싱글턴 패턴       |   전종민  |    2022.08.08      |            [Seminar-23](./Contents/20220808-Seminar-23.md)                    |
 | # 24 |                                   |          |         |                                |
 | # 25 |          OSI 7Layer               | 오혜린  | 2022.08.25 | [Seminar-25](./Contents/20220825-Seminar-25.md)                             |
