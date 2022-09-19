@@ -31,7 +31,7 @@
 | # 21 |            SQL Injection와 XSS             | 박성민 | 2022.07.28 | [Seminar-21](./Contents/20220728-Seminar-21.md)                                                        |
 | # 22 |                OOP와 SOLID                 | 김가영 | 2022.08.04 | [Seminar-22](./Contents/20220804-Seminar-22.pdf)                                                       |
 | # 23 |                싱글턴 패턴                 | 전종민 | 2022.08.08 | [Seminar-23](./Contents/20220808-Seminar-23.md)                                                        |
-| # 24 |                                            |        |            |                                                                                                        |
+| # 24 |        비동기 프로그래밍                                 |  박민석  |  2022.08.15  |[Seminar-24](https://github.com/cs-breaker/Tech-Seminar/blob/main/Contents/20220815-Seminar-24.md)            |
 | # 25 |                 OSI 7Layer                 | 오혜린 | 2022.08.25 | [Seminar-25](./Contents/20220825-Seminar-25.md)                                                        |
 | # 26 |                 스프링 빈                  | 박성민 | 2022.08.29 | [Seminar-26](./Contents/20220829-Seminar-26.md)                                                        |
 | # 27 |                   Cache                    | 김가영 | 2022.09.01 | [Seminar-27](./Contents/20220901-Seminar-27.md)                                                        |
