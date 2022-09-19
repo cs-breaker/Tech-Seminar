@@ -36,5 +36,5 @@
 | # 26 |                 스프링 빈                  | 박성민 | 2022.08.29 | [Seminar-26](./Contents/20220829-Seminar-26.md)                                                        |
 | # 27 |                   Cache                    | 김가영 | 2022.09.01 | [Seminar-27](./Contents/20220901-Seminar-27.md)                                                        |
 | # 28 |                옵저버 패턴                 | 전종민 | 2022.09.07 | [Seminar-28](./Contents/20220907-Seminar-28.md)                                                        |
-| # 29 |             HTTP 1.1, 2.0, 3.0             | 박민석 | 2022.09.13 | [Seminar-29](./Contents/20220913-Seminar-29.md)                                                        |
-| # 30 |                 로드밸런싱                 | 박성민 | 2022.09.15 | [Seminar-30](./Contents/20220915-Seminar-30.md)                                                        |
+| # 29 |             HTTP 1.1, 2.0, 3.0             | 박민석 | 2022.09.13 | [Seminar-30](./Contents/20220913-Seminar-30.md)                                                        |
+| # 30 |                 로드밸런싱                 | 박성민 | 2022.09.15 | [Seminar-31](./Contents/20220915-Seminar-31.md)                                                        |
