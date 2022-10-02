@@ -39,3 +39,4 @@
 | # 29 |                IP주소와 포트, DNS                 | 손상준 | 2022.09.08 | [Seminar-29](./Contents/20220908-Seminar-29.md)                                                        |
 | # 30 |             HTTP 1.1, 2.0, 3.0             | 박민석 | 2022.09.13 | [Seminar-30](./Contents/20220913-Seminar-30.md)                                                        |
 | # 31 |                 로드밸런싱                 | 박성민 | 2022.09.15 | [Seminar-31](./Contents/20220915-Seminar-31.md)                                                        |
+| # 32 |                 추천시스템                 | 전종민 | 2022.09.19 | [Seminar-32](./Contents/20220919-Seminar-32.md)                                                        |
