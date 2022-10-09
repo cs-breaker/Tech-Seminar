@@ -40,3 +40,4 @@
 | # 30 |             HTTP 1.1, 2.0, 3.0             | 박민석 | 2022.09.13 | [Seminar-30](./Contents/20220913-Seminar-30.md)                                                        |
 | # 31 |                 로드밸런싱                 | 박성민 | 2022.09.15 | [Seminar-31](./Contents/20220915-Seminar-31.md)                                                        |
 | # 32 |                 추천시스템                 | 전종민 | 2022.09.19 | [Seminar-32](./Contents/20220919-Seminar-32.md)                                                        |
+| # 33 |                 SSR vs CSR                 | 박민석 | 2022.09.26 | [Seminar-33](./Contents/20220926-Seminar-33.md)                                                        |
