@@ -44,5 +44,5 @@
 | # 34 |                 CPU 스케쥴러                 | 손상준 | 2022.10.06 | [Seminar-34](./Contents/20221006-Seminar-34.md)                                                                                                        |
 | # 35 |                 가상메모리                 | 박성민 | 2022.10.10 | [Seminar-35](./Contents/20221010-Seminar-35.md)                                                        |
 | # 36 |                 메시지 큐                 | 전종민 | 2022.10.13 | [Seminar-36](./Contents/20221013-Seminar-36.md)                                                        |
-| # 37 |                                  | 박민석 | 2022.10.20 |                                                         |
+| # 37 |                 FP                 | 박민석 | 2022.10.20 |  [Seminar-37](./Contents/20221020-Seminar-37.md)                                                       |
 | # 38 |                 컴퓨터의 구성요소                 | 손상준 | 2022.10.24 | [Seminar-38](./Contents/20221024-Seminar-38.md)                                                        |
