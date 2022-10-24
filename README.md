@@ -41,7 +41,7 @@
 | # 31 |                 로드밸런싱                 | 박성민 | 2022.09.15 | [Seminar-31](./Contents/20220915-Seminar-31.md)                                                        |
 | # 32 |                 추천시스템                 | 전종민 | 2022.09.19 | [Seminar-32](./Contents/20220919-Seminar-32.md)                                                        |
 | # 33 |                 SSR vs CSR                 | 박민석 | 2022.09.26 | [Seminar-33](./Contents/20220926-Seminar-33.md)                                                        |
-| # 34 |                 CPU 스케쥴러                 | 손상준 | 2022.10.06 | [Seminar-34](./Contents/20221006-Seminal-34.md)                                                                                                        |
+| # 34 |                 CPU 스케쥴러                 | 손상준 | 2022.10.06 | [Seminar-34](./Contents/20221006-Seminar-34.md)                                                                                                        |
 | # 35 |                 가상메모리                 | 박성민 | 2022.10.10 | [Seminar-35](./Contents/20221010-Seminar-35.md)                                                        |
 | # 36 |                 메시지 큐                 | 전종민 | 2022.10.13 | [Seminar-36](./Contents/20221013-Seminar-36.md)                                                        |
 | # 37 |                                  | 박민석 | 2022.10.20 |                                                         |
