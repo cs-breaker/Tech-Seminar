@@ -48,3 +48,4 @@
 | # 38 |                 컴퓨터의 구성요소                 | 손상준 | 2022.10.24 | [Seminar-38](./Contents/20221024-Seminar-38.md)                                                        |
 | # 39 |                 정렬 알고리즘                 | 박성민 | 2022.11.03 | [Seminar-39](./Contents/20221103-Seminar-39.md)                                                        |
 | # 40 |                 DB 트리거                 | 전종민 | 2022.11.07 | [Seminar-40](./Contents/20221107-Seminar-40.md)                                                        |
+|  # 41 |           Git-Flow          | 박민석 | 2022.11.21 | [Seminar-41](./Contents/20221121-Seminar-41.md)
