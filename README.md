@@ -41,11 +41,12 @@
 | # 31 |                 로드밸런싱                 | 박성민 | 2022.09.15 | [Seminar-31](./Contents/20220915-Seminar-31.md)                                                        |
 | # 32 |                 추천시스템                 | 전종민 | 2022.09.19 | [Seminar-32](./Contents/20220919-Seminar-32.md)                                                        |
 | # 33 |                 SSR vs CSR                 | 박민석 | 2022.09.26 | [Seminar-33](./Contents/20220926-Seminar-33.md)                                                        |
-| # 34 |                 CPU 스케쥴러                 | 손상준 | 2022.10.06 | [Seminar-34](./Contents/20221006-Seminar-34.md)                                                                                                        |
+| # 34 |                CPU 스케쥴러                | 손상준 | 2022.10.06 | [Seminar-34](./Contents/20221006-Seminar-34.md)                                                        |
 | # 35 |                 가상메모리                 | 박성민 | 2022.10.10 | [Seminar-35](./Contents/20221010-Seminar-35.md)                                                        |
-| # 36 |                 메시지 큐                 | 전종민 | 2022.10.13 | [Seminar-36](./Contents/20221013-Seminar-36.md)                                                        |
-| # 37 |                 FP                 | 박민석 | 2022.10.20 |  [Seminar-37](./Contents/20221020-Seminar-37.md)                                                       |
-| # 38 |                 컴퓨터의 구성요소                 | 손상준 | 2022.10.24 | [Seminar-38](./Contents/20221024-Seminar-38.md)                                                        |
-| # 39 |                 정렬 알고리즘                 | 박성민 | 2022.11.03 | [Seminar-39](./Contents/20221103-Seminar-39.md)                                                        |
-| # 40 |                 DB 트리거                 | 전종민 | 2022.11.07 | [Seminar-40](./Contents/20221107-Seminar-40.md)                                                        |
-|  # 41 |           Git-Flow          | 박민석 | 2022.11.21 | [Seminar-41](./Contents/20221121-Seminar-41.md)
+| # 36 |                 메시지 큐                  | 전종민 | 2022.10.13 | [Seminar-36](./Contents/20221013-Seminar-36.md)                                                        |
+| # 37 |                     FP                     | 박민석 | 2022.10.20 | [Seminar-37](./Contents/20221020-Seminar-37.md)                                                        |
+| # 38 |             컴퓨터의 구성요소              | 손상준 | 2022.10.24 | [Seminar-38](./Contents/20221024-Seminar-38.md)                                                        |
+| # 39 |               정렬 알고리즘                | 박성민 | 2022.11.03 | [Seminar-39](./Contents/20221103-Seminar-39.md)                                                        |
+| # 40 |                 DB 트리거                  | 전종민 | 2022.11.07 | [Seminar-40](./Contents/20221107-Seminar-40.md)                                                        |
+| # 41 |                  Git-Flow                  | 박민석 | 2022.11.21 | [Seminar-41](./Contents/20221121-Seminar-41.md)                                                        |
+| # 42 |                  DB Lock                   | 박성민 | 2022.12.01 | [Seminar-42](./Contents/20221201-Seminar-42.md)                                                        |
