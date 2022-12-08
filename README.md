@@ -51,5 +51,5 @@
 | # 41 |                  Git-Flow                  | 박민석 | 2022.11.21 | [Seminar-41](./Contents/20221121-Seminar-41.md)                                                        |
 | # 42 |                  DB Lock                   | 박성민 | 2022.12.01 | [Seminar-42](./Contents/20221201-Seminar-42.md)                                                        |
 | # 43 |                다양한 IPC 기법 소개        | 오성민 | 2022.12.05 | [Seminar-43](./Contents/20221205-Seminar-43.md)  
-
-| # 44 |                  MSA                   | 전종민 | 2022.12.08 | [Seminar-44](./Contents/20221208-Seminar-44.md)                                                        |
+          |
+| # 44 |                  MSA                   | 전종민 | 2022.12.08 | [Seminar-44](./Contents/20221208-Seminar-44.md)                                                            |
