@@ -55,3 +55,4 @@
 | # 45 |                    쿠키 & 세션                     | 박민석 | 2022.12.15 | [Seminar-45](./Contents/20221215-Seminar-45.md)                                                        |
 | # 46 |                    System bus                     | 손상준 | 2023.01.05 | [Seminar-46](./Contents/20230105-Seminar-46.md)                                                        |
 | # 47 |                    I/O장치와 CPU간의 통신 그리고 interrupt                     | 오성민 | 2023.01.12 | [Seminar-47](./Contents/20230112-Seminar-47.md)                                                        |
+| # 49 |                    DOM                     | 박민석 | 2023.01.30 | [Seminar-49](./Contents/20230130-Seminar-49.md)                                                        |
