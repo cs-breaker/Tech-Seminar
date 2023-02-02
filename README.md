@@ -57,3 +57,4 @@
 | # 47 |                    I/O장치와 CPU간의 통신 그리고 interrupt                     | 오성민 | 2023.01.12 | [Seminar-47](./Contents/20230112-Seminar-47.md)                                                        |
 | # 48 |                    프록시                     | 전종민 | 2023.01.26 | [Seminar-48](./Contents/20230126-Seminar-48.md)                                                        |
 | # 49 |                    DOM                     | 박민석 | 2023.01.30 | [Seminar-49](./Contents/20230130-Seminar-49.md)                                                        |
+| # 50 |                    커널(Kernel)                     | 손상준 | 2023.02.02 | [Seminar-50](./Contents/20230202-Seminar-50.md)                                                        |
