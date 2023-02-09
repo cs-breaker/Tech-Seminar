@@ -59,3 +59,4 @@
 | # 49 |                    DOM                     | 박민석 | 2023.01.30 | [Seminar-49](./Contents/20230130-Seminar-49.md)                                                        |
 | # 50 |                    커널(Kernel)                     | 손상준 | 2023.02.02 | [Seminar-50](./Contents/20230202-Seminar-50.md)                                                        |
 | # 51 |                    lexical scope와 dynamic scope                     | 오성민 | 2023.02.06 | [Seminar-51](./Contents/20230206-Seminar-51.md)                                                        |
+| # 52 |                    ELK                     | 전종민 | 2023.02.09 | [Seminar-52](./Contents/20230209-Seminar-52.md)                                                        |
