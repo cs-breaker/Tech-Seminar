@@ -62,3 +62,4 @@
 | # 52 |                    ELK                     | 전종민 | 2023.02.09 | [Seminar-52](./Contents/20230209-Seminar-52.md)                                                        |
 | # 53 |                    ???                     | 박민석 | 2023.02.27 | [Seminar-53](./Contents/20230227-Seminar-53.md)                                                        |
 | # 54 |                    Socket                     | 손상준  | 2023.03.02 | [Seminar-54](./Contents/20230302-Seminar-54.md)                                                        |
+| # 55 |                    DB Log와 transactional recovery                     | 오성민  | 2023.03.06 | [Seminar-55](./Contents/20230306-Seminar-55.md)                                                        |
