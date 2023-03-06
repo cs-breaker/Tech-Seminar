@@ -60,3 +60,5 @@
 | # 50 |                    커널(Kernel)                     | 손상준 | 2023.02.02 | [Seminar-50](./Contents/20230202-Seminar-50.md)                                                        |
 | # 51 |                    lexical scope와 dynamic scope                     | 오성민 | 2023.02.06 | [Seminar-51](./Contents/20230206-Seminar-51.md)                                                        |
 | # 52 |                    ELK                     | 전종민 | 2023.02.09 | [Seminar-52](./Contents/20230209-Seminar-52.md)                                                        |
+| # 53 |                    ???                     | 박민석 | 2023.02.27 | [Seminar-53](./Contents/20230227-Seminar-53.md)                                                        |
+| # 52 |                    Socket                     | 손상준  | 2023.03.02 | [Seminar-54](./Contents/20230302-Seminar-54.md)                                                        |
