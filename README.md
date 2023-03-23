@@ -63,3 +63,4 @@
 | # 53 |                    브라우저 렌더링 동작 원리                     | 박민석 | 2023.02.27 | [Seminar-53](./Contents/20230223-Seminar-53.md)                                                        |
 | # 54 |                    Socket                     | 손상준  | 2023.03.02 | [Seminar-54](./Contents/20230302-Seminar-54.md)                                                        |
 | # 55 |                    DB Log와 transactional recovery                     | 오성민  | 2023.03.06 | [Seminar-55](./Contents/20230306-Seminar-55.md)                                                        |
+| # 56 |                    웹팩                     |  박민석  | 2023.03.23 | [Seminar-56](./Contents/20230323-Seminar-56.md)                                                        |
