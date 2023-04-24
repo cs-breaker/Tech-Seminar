@@ -65,3 +65,4 @@
 | # 55 |                    DB Log와 transactional recovery                     | 오성민  | 2023.03.06 | [Seminar-55](./Contents/20230306-Seminar-55.md)                                                        |
 | # 56 |                    웹팩                     |  박민석  | 2023.03.23 | [Seminar-56](./Contents/20230323-Seminar-56.md)                                                        |
 | # 57 |                    git에서 과거의 특정 커밋을 수정하는 방법                     |  오성민  | 2023.03.30 | [Seminar-57](./Contents/20230330-Seminar-57.md)                                                        |
+| # 58 |                    MySQL 엔진                    |  조ㄴ서  | 2023.04.03 | [Seminar-57](./Contents/20230403-Seminar-58.md)        
