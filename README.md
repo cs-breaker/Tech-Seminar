@@ -64,7 +64,7 @@
 | # 54 |                    Socket                     | 손상준  | 2023.03.02 | [Seminar-54](./Contents/20230302-Seminar-54.md)                                                        |
 | # 55 |                    DB Log와 transactional recovery                     | 오성민  | 2023.03.06 | [Seminar-55](./Contents/20230306-Seminar-55.md)                                                        |
 | # 56 |                    TCP 커넥션 관리                     |  전종민  | 2023.03.13 | [Seminar-56](./Contents/20230313-Seminar-56.md)                                                        |
-| # 57 |                    웹팩                     |  박민석  | 2023.03.23 | [Seminar-56](./Contents/20230323-Seminar-56.md)                                                        |
-| # 58 |                    git에서 과거의 특정 커밋을 수정하는 방법                     |  오성민  | 2023.03.30 | [Seminar-57](./Contents/20230330-Seminar-57.md)                                                        |
-| # 58 |                    MySQL 엔진                    |  조민서  | 2023.04.03 | [Seminar-58](./Contents/20230403-Seminar-58.md)        |
-| # 59 |                    데이터베이스 샤딩                     |  전종민  | 2023.04.06 | [Seminar-59](./Contents/20230406-Seminar-59.md)                                                        |
+| # 57 |                    웹팩                     |  박민석  | 2023.03.23 | [Seminar-57](./Contents/20230323-Seminar-56.md)                                                        |
+| # 58 |                    git에서 과거의 특정 커밋을 수정하는 방법                     |  오성민  | 2023.03.30 | [Seminar-58](./Contents/20230330-Seminar-57.md)                                                        |
+| # 59 |                    MySQL 엔진                    |  조민서  | 2023.04.03 | [Seminar-59](./Contents/20230403-Seminar-58.md)        |
+| # 60 |                    데이터베이스 샤딩                     |  전종민  | 2023.04.06 | [Seminar-60](./Contents/20230406-Seminar-59.md)                                                        |
