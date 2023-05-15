@@ -67,4 +67,5 @@
 | # 57 |                    웹팩                     |  박민석  | 2023.03.23 | [Seminar-57](./Contents/20230323-Seminar-56.md)                                                        |
 | # 58 |                    git에서 과거의 특정 커밋을 수정하는 방법                     |  오성민  | 2023.03.30 | [Seminar-58](./Contents/20230330-Seminar-57.md)                                                        |
 | # 59 |                    MySQL 엔진                    |  조민서  | 2023.04.03 | [Seminar-59](./Contents/20230403-Seminar-58.md)        |
-| # 60 |                    데이터베이스 샤딩                     |  전종민  | 2023.04.06 | [Seminar-60](./Contents/20230406-Seminar-60.md)                                                        |
+| # 60 |                    데이터베이스 샤딩                     |  전종민  | 2023.04.06 | [Seminar-60](./Contents/20230406-Seminar-60.md)                                                        | 
+| # 61 |                    db 여러가지 이상현상 정리                    |  오성민  | 2023.04.27 | [Seminar-61](./Contents/20230427-Seminar-61.md)                                                        | 
