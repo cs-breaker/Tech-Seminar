@@ -70,3 +70,4 @@
 | # 60 |                    데이터베이스 샤딩                     |  전종민  | 2023.04.06 | [Seminar-60](./Contents/20230406-Seminar-60.md)                                                        | 
 | # 61 |                    db 여러가지 이상현상 정리                    |  오성민  | 2023.04.27 | [Seminar-61](./Contents/20230427-Seminar-61.md)                                                        |
 | # 62 |        TDD(Test Driven Development)       |  조민서  | 2023.05.11 | [Seminar-62](./Contents/20230511-Seminar-62.md)                                                        | 
+| # 63 |        DB 정규화       |  전종민  | 2023.05.15 | [Seminar-63](./Contents/20230515-Seminar-63.md)                                                        | 
